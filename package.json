@@ -20,7 +20,8 @@
   "homepage": "https://github.com/zerenzt/541211033-XIIRPL1-AZARINEABBIYUN#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^0.0.1"
+    "mongodb": "^6.2.0",
+    "mongoose": "^8.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
